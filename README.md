@@ -16,8 +16,8 @@ This dashboard risk-stratifies the covered lives to find unmanaged risk factors,
 3. Executive Visualization (Power BI): Created dynamic, decoupled DAX financial measures to power a 2-page report tracking total exposure, utilization correlation, and AI-driven root-cause influencers.
 
 ## Dashboard Architecture & Insights
-![Page 1 Snapshot](page1_snapshot.png)
-![Page 2 Snapshot](page2_snapshot.png)
+![Page 1 Snapshot](page1_snapshot.PNG)
+![Page 2 Snapshot](page2_snapshot.PNG)
 
 ### Page 1: Financial & Utilization Overview
 - The Cost Disproportion: The analysis reveals that the Critical Risk tier represents just 10.85% of total plan membership (145 members), yet drives 33.9% of total plan spend ($6.02M). 
